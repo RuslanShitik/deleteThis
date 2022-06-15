@@ -1,1 +1,1 @@
-#del 
+#del new prikol
